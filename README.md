@@ -1,3 +1,2 @@
 # euamocachorros
- um arquivo sobre um amante de cachorros
-Se qiser sim tlgd
+um arquivo sobre um amante de cachorros
