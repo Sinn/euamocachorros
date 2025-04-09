@@ -1,2 +1,2 @@
 # euamocachorros
-um arquivo sobre um amante de cachorros
+Um arquivo sobre um amante de cachorros
