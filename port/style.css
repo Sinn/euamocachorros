@@ -5,12 +5,12 @@
     border:0;
 }
 body{
-    background-color: rgb(179, 170, 48);
+    background-color: #e2e621;
 }
 header {
     padding: 32px;
     border-bottom: 1px solid #e2e60d;
-    background-color: #e2e621;
+    background-color: rgb(179, 170, 48);
 }
 header div {
     text-align: center;
@@ -37,4 +37,10 @@ header div a:hover {
     border-radius: 50%;
     border: 5px solid rgb(179, 170, 48);
     margin-bottom: 32px;
+}
+.yt{
+    color: white;
+    font-size: 20px;
+    line-height: 80px;
+    text-decoration: none;
 }
