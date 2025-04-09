@@ -28,3 +28,13 @@ header div a:hover {
     color:rgb(128, 119, 3);
     transition: color 700ms;
 }
+#box {
+    text-align: center;
+    padding: 32px;
+}
+
+#box img{
+    border-radius: 50%;
+    border: 5px solid rgb(179, 170, 48);
+    margin-bottom: 32px;
+}
