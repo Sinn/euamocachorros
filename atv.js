@@ -58,3 +58,11 @@ let carro = {
     Automatico: false
 }
 console.log(`O carro ${carro.Modelo} é automático? ${carro.Automatico}`)
+
+//Resolver essa pica
+let rpg = {
+    participantes: "Andre, Mari e Heitor",
+    numero: 4,
+    mestre: "Sine"
+}
+console.log (`Os participantes ${rpg.participantes} fazem parte do rpg do ${rpg.mestre}`)
